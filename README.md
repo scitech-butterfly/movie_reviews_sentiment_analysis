@@ -1,4 +1,4 @@
-# movie_reviews_sentiment_analysis
+# Movie Reviews Sentiment Analysis
 
 <h3> <b>Introduction:</b></h3>
 <p>This project is based on analyzing the sentiment of a set of movie reviews, and training a model to predict the sentiment of such movie reviews. In this, I used a dataset of 50k IMDb reviews obtained from Kaggle. The dataset contains two columns, 'review' and 'sentiment', each review labeled as positive or negative. </p>
